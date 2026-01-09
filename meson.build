@@ -1,5 +1,5 @@
 project('tcc', 'c',
-  version: '0.9.27-frida',
+  version: '0.9.27-yszint',
 )
 
 cc = meson.get_compiler('c')
